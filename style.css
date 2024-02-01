@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    background-color:rgb(8,27,41);
+}
+
+.nav{
+    margin-left: 50%;
+    display: flex;
+    background-color: ;
+    
+}
+.A{
+    margin-right: 60px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size:22px;
+    margin-top: 20px;
+    padding:5px;
+    font-weight: bold;
+}
+.A:hover{
+   
+    color: rgb(3, 195, 253);
+    box-shadow: 0px 0px 4px 2px rgb(3, 195, 253);
+    border-radius: 9%;
+}
+table{
+    color: white;
+}
+p{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+h2{
+    color: rgb(6, 251, 112);
+
+}
+.total{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+h1{
+    margin-bottom:30px;
+    font-size: 3.5em;
+}
+h2{
+    margin-bottom: 10px;
+    font-size: 2em;
+    margin-top: 10px; 
+}
+td{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+h2:hover{
+    color: rgb(249, 220, 5);
+    box-shadow: 0px 0px 8px 5px rgb(249, 5, 5);
+}
+#A{
+    width: 230px;
+}
+#B{
+    width:165px ;
+}
+#C{
+    width: 142px;
+}
+#D{
+    width: 250px;
+}
